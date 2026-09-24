@@ -1,6 +1,6 @@
 {
-  "version_code": 7,
-  "version_name": "1.6",
-  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v1.6/app-debug.apk",
-  "changelog": "Fix: cliques apenas em itens visiveis na tela. Fix: acento em Restaurar dados de fabrica. Scroll mais preciso."
+  "version_code": 8,
+  "version_name": "1.7",
+  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v1.7/app-debug.apk",
+  "changelog": "Fix: scroll automatico nas etapas 3 e 4 — botoes Restaurar e Apagar tudo ficam no fim da pagina."
 }
