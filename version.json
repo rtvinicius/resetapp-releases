@@ -1,6 +1,6 @@
 {
   "version_code": 3,
-  "version_name": "1.2-teste",
-  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v1.1/app-debug.apk",
-  "changelog": "TESTE de auto-update — instalador sera aberto automaticamente"
+  "version_name": "1.2",
+  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v1.2/app-debug.apk",
+  "changelog": "Corrigido: reset automatico no Samsung Android 16 com scroll e novos intents"
 }
