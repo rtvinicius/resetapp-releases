@@ -1,6 +1,6 @@
 {
-  "version_code": 11,
-  "version_name": "2.0",
-  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v2.0/app-debug.apk",
-  "changelog": "Fix: remocao de conta Google clica menu de 3 pontos no Samsung Android 16 para acessar Remover conta."
+  "version_code": 12,
+  "version_name": "2.1",
+  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v2.1/app-debug.apk",
+  "changelog": "Fix: tap gestual nas coordenadas do no \u2014 clica Remover conta mesmo isClickable=false no Samsung Android 16."
 }
