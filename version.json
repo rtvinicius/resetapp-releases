@@ -1,6 +1,6 @@
 {
-  "version_code": 5,
-  "version_name": "1.4",
-  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v1.4/app-debug.apk",
-  "changelog": "Fix: textos corretos para Samsung Android 16 — Restaurar, Restaurar dados de fabrica, Apagar tudo"
+  "version_code": 6,
+  "version_name": "1.5",
+  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v1.5/app-debug.apk",
+  "changelog": "Fix: polling periodico garante automacao mesmo sem eventos. Duplo swipe no scroll."
 }
