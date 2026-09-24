@@ -1,6 +1,6 @@
 {
-  "version_code": 8,
-  "version_name": "1.7",
-  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v1.7/app-debug.apk",
-  "changelog": "Fix: scroll automatico nas etapas 3 e 4 — botoes Restaurar e Apagar tudo ficam no fim da pagina."
+  "version_code": 9,
+  "version_name": "1.8",
+  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v1.8/app-debug.apk",
+  "changelog": "Novo: guia de configuracao de seguranca — Auto Blocker Samsung, Play Protect e permissao de instalacao."
 }
