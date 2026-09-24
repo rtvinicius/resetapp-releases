@@ -1,6 +1,6 @@
 {
-  "version_code": 10,
-  "version_name": "1.9",
-  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v1.9/app-debug.apk",
-  "changelog": "Fix: remocao de conta Google agora navega automaticamente — lista de contas, detalhe, confirmacao. Busca pelo email da conta."
+  "version_code": 11,
+  "version_name": "2.0",
+  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v2.0/app-debug.apk",
+  "changelog": "Fix: remocao de conta Google clica menu de 3 pontos no Samsung Android 16 para acessar Remover conta."
 }
