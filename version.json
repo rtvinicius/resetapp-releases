@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
-  "version_name": "1.1",
+  "version_code": 3,
+  "version_name": "1.2-teste",
   "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v1.1/app-debug.apk",
-  "changelog": ""
+  "changelog": "TESTE de auto-update — instalador sera aberto automaticamente"
 }
