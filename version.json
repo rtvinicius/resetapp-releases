@@ -1,6 +1,1 @@
-{
-  "version_code": 13,
-  "version_name": "2.2",
-  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v2.2/app-debug.apk",
-  "changelog": "Fix: caminho correto remocao conta \u2014 Contas e backup > Gerenciar contas > conta > Remover conta > Remover."
-}
+{"version_code":14,"version_name":"2.3","apk_url":"https://github.com/rtvinicius/resetapp-releases/releases/download/v2.3/app-debug.apk"}
