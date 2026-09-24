@@ -1,6 +1,6 @@
 {
-  "version_code": 12,
-  "version_name": "2.1",
-  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v2.1/app-debug.apk",
-  "changelog": "Fix: tap gestual nas coordenadas do no \u2014 clica Remover conta mesmo isClickable=false no Samsung Android 16."
+  "version_code": 13,
+  "version_name": "2.2",
+  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v2.2/app-debug.apk",
+  "changelog": "Fix: caminho correto remocao conta \u2014 Contas e backup > Gerenciar contas > conta > Remover conta > Remover."
 }
