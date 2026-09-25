@@ -1,1 +1,6 @@
-{"version_code":26,"version_name":"3.5","apk_url":"https://github.com/rtvinicius/resetapp-releases/releases/download/v3.5/app-release.apk","changelog":"Corrige reset incompleto - automacao agora percorre todas as telas de confirmacao ate Apagar tudo"}
+{
+  "version_code": 27,
+  "version_name": "3.6",
+  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v3.6/app-release.apk",
+  "changelog": "v3.6: Scroll automatico ACTION_SCROLL_FORWARD no Samsung para revelar botao abaixo do viewport."
+}
