@@ -1,1 +1,1 @@
-{"version_code":23,"version_name":"3.2","apk_url":"https://github.com/rtvinicius/resetapp-releases/releases/download/v3.2/app-release.apk","changelog":"- Novo webhook URL\n- Corrigido duplo envio de webhook durante reset\n- Fallback via share intent quando webhook falha"}
+{"version_code":24,"version_name":"3.3","apk_url":"https://github.com/rtvinicius/resetapp-releases/releases/download/v3.3/app-release.apk","changelog":"Corrige envio de logs - restaura comportamento original do webhook"}
