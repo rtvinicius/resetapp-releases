@@ -1,6 +1,6 @@
 {
-  "version_code": 28,
-  "version_name": "3.7",
-  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v3.7/app-release.apk",
-  "changelog": "v3.7: Fix scroll infinito na tela de confirmacao do reset Samsung Android 16. Botao Restaurar agora detectado corretamente."
+  "version_code": 29,
+  "version_name": "3.8",
+  "apk_url": "https://github.com/rtvinicius/resetapp-releases/releases/download/v3.8/app-release.apk",
+  "changelog": "v3.8: Fix scroll insuficiente etapa 4 Samsung Android 16. Swipe gesture direto revela botao Restaurar em uma passagem. Scroll imediato ao entrar na etapa sem esperar polling."
 }
